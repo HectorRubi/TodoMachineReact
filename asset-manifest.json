@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TodoMachineReact/static/css/main.96d1ca06.chunk.css",
+    "main.js": "/TodoMachineReact/static/js/main.3fc79648.chunk.js",
+    "main.js.map": "/TodoMachineReact/static/js/main.3fc79648.chunk.js.map",
+    "runtime-main.js": "/TodoMachineReact/static/js/runtime-main.45d2a61b.js",
+    "runtime-main.js.map": "/TodoMachineReact/static/js/runtime-main.45d2a61b.js.map",
+    "static/js/2.75e2046f.chunk.js": "/TodoMachineReact/static/js/2.75e2046f.chunk.js",
+    "static/js/2.75e2046f.chunk.js.map": "/TodoMachineReact/static/js/2.75e2046f.chunk.js.map",
+    "index.html": "/TodoMachineReact/index.html",
+    "static/css/main.96d1ca06.chunk.css.map": "/TodoMachineReact/static/css/main.96d1ca06.chunk.css.map",
+    "static/js/2.75e2046f.chunk.js.LICENSE.txt": "/TodoMachineReact/static/js/2.75e2046f.chunk.js.LICENSE.txt",
+    "static/media/check.af03c9a6.svg": "/TodoMachineReact/static/media/check.af03c9a6.svg",
+    "static/media/delete.d9c7e0ee.svg": "/TodoMachineReact/static/media/delete.d9c7e0ee.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45d2a61b.js",
+    "static/js/2.75e2046f.chunk.js",
+    "static/css/main.96d1ca06.chunk.css",
+    "static/js/main.3fc79648.chunk.js"
+  ]
+}
